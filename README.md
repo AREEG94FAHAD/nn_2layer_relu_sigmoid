@@ -1,2 +1,2 @@
-# nn_2layer_relu_sigmoid
-Neural Network with two layers (Relu, sigmoid)
+### A neural network with two layers (Relu and Sigmoid).
+This experiment can be applied of any dataset.
